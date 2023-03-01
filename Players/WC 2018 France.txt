@@ -1,0 +1,24 @@
+Pos.|Player|DOB (age 2018Jun)|Caps|Goals
+GK|Hugo Lloris (captain)|26 December 1986 (aged 31)|98|0
+DF|Benjamin Pavard|28 March 1996 (aged 22)|6|0
+DF|Presnel Kimpembe|13 August 1995 (aged 22)|2|0
+DF|Raphaël Varane|25 April 1993 (aged 25)|42|2
+DF|Samuel Umtiti|14 November 1993 (aged 24)|19|2
+MF|Paul Pogba|15 March 1993 (aged 25)|54|9
+FW|Antoine Griezmann|21 March 1991 (aged 27)|54|20
+FW|Thomas Lemar|12 November 1995 (aged 22)|12|3
+FW|Olivier Giroud|30 September 1986 (aged 31)|74|31
+FW|Kylian Mbappé|20 December 1998 (aged 19)|15|4
+FW|Ousmane Dembélé|15 May 1997 (aged 21)|12|2
+MF|Corentin Tolisso|3 August 1994 (aged 23)|9|0
+MF|N'Golo Kanté|29 March 1991 (aged 27)|24|1
+MF|Blaise Matuidi|9 April 1987 (aged 31)|67|9
+MF|Steven Nzonzi|15 December 1988 (aged 29)|4|0
+GK|Steve Mandanda|28 March 1985 (aged 33)|27|0
+DF|Adil Rami|27 December 1985 (aged 32)|35|1
+FW|Nabil Fekir|18 July 1993 (aged 24)|12|2
+DF|Djibril Sidibé|29 July 1992 (aged 25)|17|1
+FW|Florian Thauvin|26 January 1993 (aged 25)|4|0
+DF|Lucas Hernández|14 February 1996 (aged 22)|5|0
+DF|Benjamin Mendy|17 July 1994 (aged 23)|7|0
+GK|Alphonse Areola|27 February 1993 (aged 25)|0|0
